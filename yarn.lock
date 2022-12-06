@@ -14630,9 +14630,9 @@ qs@^6.9.4:
     side-channel "^1.0.4"
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -17333,11 +17333,6 @@ umask@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/umask/-/umask-1.1.0.tgz#f29cebf01df517912bb58ff9c4e50fde8e33320d"
   integrity sha1-8pzr8B31F5ErtY/5xOUP3o4zMg0=
-
-umi-plugin-hire@^1.0.3:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/umi-plugin-hire/-/umi-plugin-hire-1.0.6.tgz#267f6755a40bd5bc8442cfcc53ca072defe60f07"
-  integrity sha512-POna9n6paM4uHglvLKGxV3kw203gpZ1nlL58M31DBLzp1anyaLpQy51HBG0sC6GAy0DS2FLJZhVS5zcBPJLM2g==
 
 umi-webpack-bundle-analyzer@3.6.2:
   version "3.6.2"
